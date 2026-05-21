@@ -2,7 +2,7 @@
 import os
 
 TOKEN = "8198575429:AAEzgX1vxCZfABrwhZEXOf48kRdYv4_s3yY"
-ADMIN_ID = 123456789  # ЗАМЕНИ ТУТ НА СВОЙ ТЕЛЕГРАМ ID
+ADMIN_ID = 8624430245  # ЗАМЕНИ ТУТ НА СВОЙ ТЕЛЕГРАМ ID
 
 # Создаем необходимые папки при старте
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
